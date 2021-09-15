@@ -1,0 +1,29 @@
+
+.grid img {
+    border:2px soild black;
+    border-radius:50px;
+}
+ 
+.orgami {
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding :30px;
+    margin:25px;
+    width:310px;
+    font-family: fantasy;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    padding:15px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 990;
+    color:peachpuff;
+}
+body{ 
+    margin:0px;
+    background-color: #f7f2f2;
+}
